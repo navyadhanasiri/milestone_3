@@ -34,7 +34,7 @@ Create a .env file in the project root:
 GEMINI_API_KEY=your_api_key_here
 5. Run the application
 bashstreamlit run app.py
-The app will be available at http://localhost:8501
+The app will be available at https://milestone-3-status-r-8hat.bolt.host
 
 🖐️ Gesture Controls
 GestureActionIndex finger up (Draw mode)Draw on canvasIndex + Middle fingers up (Erase mode)Erase strokesFist / all fingers down (Idle mode)Pause drawing
